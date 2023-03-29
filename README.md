@@ -1,0 +1,2 @@
+# kaljamopo
+kaljamopo projekti jutut
